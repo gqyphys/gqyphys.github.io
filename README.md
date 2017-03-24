@@ -1,2 +1,2 @@
-# alvy-singer.github.io
+# gqyphys.github.io
 my blog

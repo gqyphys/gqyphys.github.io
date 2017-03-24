@@ -1,12 +1,12 @@
 # Site settings
-title: Alvy Blog
+title: Gqyphys BlogBlog
 subtitle: aaaaaaaaaaa
-SEOTitle: 杨乐的博客 | Hulumei Blog
+SEOTitle: 顾秋月的博客 | Gqyphys Blog
 header-img: img/SurveyImage.jpg
-email: alvysurvey@gmail.com
-description: "Python web development"
-keyword: "杨乐"
-url: "https://hulumei.com"              # your host, for absolute URL
+email: gqyphy911@163.com
+description: "Frontdend siklls"
+keyword: "顾秋月"
+url: "https://guqiuyue.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -52,7 +52,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: huxblog
+duoshuo_username: gqyblog
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -60,7 +60,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 
 # Analytics settings
-# Baidu Analytics 
+# Baidu Analytics
 # ba_track_id: [your track id]
 
 # Google Analytics
@@ -89,12 +89,12 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        title: "Su",
-        href: "http://su.gallery/"
-    },{
-        title: "乱序",
-        href: "http://mida.re/"
-    }
-]
+# friends: [
+#     {
+#         title: "Su",
+#         href: "http://su.gallery/"
+#     },{
+#         title: "乱序",
+#         href: "http://mida.re/"
+#     }
+# ]
