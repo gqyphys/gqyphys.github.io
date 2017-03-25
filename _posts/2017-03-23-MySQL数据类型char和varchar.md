@@ -4,7 +4,7 @@ title:      "MySQL数据类型char和varchar"
 subtitle:   ""
 date:       2017-03-23 00:00:00
 author:     "alvy"
-header-img: "img/post-bg-database.jpg"
+header-img: "img/post-bg-database.png"
 header-mask: 0.3
 catalog:    true
 tags:
