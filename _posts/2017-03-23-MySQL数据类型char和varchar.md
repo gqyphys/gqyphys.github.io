@@ -1,15 +1,15 @@
 ---
 layout:     post
-title:      "MySQL数据类型char和varchar"
+title:      "同时post文件和表单信息"
 subtitle:   ""
-date:       2017-03-23 00:00:00
-author:     "alvy"
+date:       2016-05-30 00:00:00
+author:     "gqyphys"
 header-img: "img/post-bg-database.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
-    - database
-    - MySQL
+    - javascript
+    - form
 ---
 ##### 背景
 
