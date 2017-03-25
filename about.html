@@ -21,7 +21,7 @@ header-img: "img/about-bg.jpg"
     <p>Hey，我是<strong>黄玄</strong>，程序员 &amp; 设计师，<a href="https://medium.com/ben-and-dion/team-web-3315aa447fb2#.359a9c6cl">Team Web</a>，前淘宝网 · <a href="http://alitrip.com">阿里旅行</a>前端团队资深实习生 · 花名鬼栈，前微影时代 · <a href="http://www.wepiao.com/?r=movie">微票儿</a>前端基础工程团队负责人。</p>
 
     <p>一些作品和开源项目，👉 戳 <a href="https://zhuanlan.zhihu.com/p/21280918">演说.io</a>、<a href="/portfolio">Portfolio</a> 与 <a href="http://github.com/huxpro">Github</a>；除了在博客与 <a href="http://zhuanlan.zhihu.com/huxblog">知乎专栏 · 一生想做浪漫极客</a> 写点东西外，我也是 <a href="http://www.gfansub.com/">GDG 字幕组</a> 与 <a href="http://zhuanlan.zhihu.com/FrontendMagazine">前端外刊评论 · 知乎专栏</a> 的翻译维护成员。</p>
-    
+
     <p>音乐重度依赖患者，设计师强迫症患者，书买得比看得多患者，毒舌患者，科技产品发布会观看癖患者，间歇性感伤患者，习惯性熬夜患者。</p>
     <h5>Talks</h5>
 
@@ -98,25 +98,25 @@ header-img: "img/about-bg.jpg"
 
 
 
-{% if site.duoshuo_username %}
+{#% if site.duoshuo_username %#}
 <!-- 多说评论框 start -->
 <div class="comment">
     <!-- This id is used for indexing my loss comments forcedly -->
-    <div class="ds-thread"
+    <!-- <div class="ds-thread"
     {% if site.duoshuo_username == "huxblog" %}
         data-thread-id="1187623191091085319"
     {% else %}
-    <!-- U can just use this key generated to index comments at page about -->
+     U can just use this key generated to index comments at page about
         data-thread-key="{{site.duoshuo_username}}/about"
     {% endif %}
 
     data-title="{{page.title}}"
     data-url="{{site.url}}/about/"></div>
-</div>
+</div> -->
 <!-- 多说评论框 end -->
 
 <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
-<script type="text/javascript">
+<!-- <script type="text/javascript">
     // dynamic User hacking by Hux
     var _user = '{{site.duoshuo_username}}';
 
@@ -130,9 +130,9 @@ header-img: "img/about-bg.jpg"
         (document.getElementsByTagName('head')[0]
          || document.getElementsByTagName('body')[0]).appendChild(ds);
     })();
-</script>
+</script> -->
 <!-- 多说公共JS代码 end -->
-{% endif %}
+{#% endif %#}
 
 
 {% if site.disqus_username %}
