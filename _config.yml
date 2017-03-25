@@ -18,7 +18,7 @@ weibo_username:     尹笑墨
 github_username:    gqyphys
 #twitter_username:  huxpro
 #facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
+linkedin_username:  秋月-顾-431418a9
 
 
 
@@ -44,7 +44,7 @@ gems: [jekyll-paginate]
 # document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
 kramdown:
-  input: GFM                            # use Github Flavored Markdown !important
+input: GFM                            # use Github Flavored Markdown !important
 
 
 
